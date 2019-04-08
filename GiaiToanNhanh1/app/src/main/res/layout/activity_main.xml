@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:background="@drawable/bgg"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:weightSum="4"
+    >
+
+
+    <ImageButton
+        android:id="@+id/btn_congtru"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:src="@drawable/congtru"
+        android:text="@string/c_g_t"
+        android:textSize="30dp" />
+    <ImageButton
+        android:id="@+id/btn_dungsai"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:src="@drawable/dungsai"
+        android:textSize="30dp" />
+
+    <ImageButton
+        android:id="@+id/btn_diemcao"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:src="@drawable/diemcao"
+        android:text="@string/l_n_b"
+        android:textSize="30dp" />
+
+    <ImageButton
+        android:id="@+id/btn_info"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:src="@drawable/thongtin"
+        android:text="@string/th_ng_tin"
+        android:textSize="30dp" />
+
+
+</LinearLayout>

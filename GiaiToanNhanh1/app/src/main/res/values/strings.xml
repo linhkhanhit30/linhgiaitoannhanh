@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GiaiToanNhanh1</string>
+    <string name="ng_sai">Đúng sai</string>
+    <string name="c_g_t">Cộng Trừ</string>
+    <string name="l_n_b">Lớn bé</string>
+    <string name="th_ng_tin">Thông tin</string>
+    <string name="in_fo">   Giải Toán Nhanh là một trong những ứng dụng,
+        phần mềm giải Toán thông minh dành cho điện thoại.
+        Cụ thể, Giải Toán Nhanh sẽ tiến hành tạo câu hỏi, các câu hỏi cộng trừ dành cho học sinh tiểu học được đưa ra
+        cụ thể .
+
+</string>
+    <string name="in_fo2">... Tuy nhiên, các bạn cần sử dụng Giải Toán Nhanh đúng mục đích
+         và thời gian sử dụng của các bé.
+</string>
+    <string name="in_fo3">Đối tượng sử dụng chính của ứng dụng là các em nhỏ đang học mầm non, đặc biệt các em nhỏ chuẩn bị lên học tiểu học.
+ xin chân thành cảm ơn!</string>
+    <string name="in_fo4">Info App: Nguyễn Khánh Linh
+        </string>
+    <string name="in_fo5">Email: linhnguyenkhanh.it@gmail.com</string>
+</resources>
